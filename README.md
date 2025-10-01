@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Alpram!
+
+![Pramesa Alyusufi](img/banner.png)
 
 <!--
 **PramesaAlyusufi11/PramesaAlyusufi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,figma&theme=light)](https://skillicons.dev)
+
+##### ⚡ Database
+
+<img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+##### 🚀 Frameworks & Library
+
+[![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpram/alpram/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpram/alpram/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alpram/alpram/output/pacman-contribution-graph.svg">
+</picture>
+
+###
