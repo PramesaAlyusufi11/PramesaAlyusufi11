@@ -1,6 +1,6 @@
 ## Hello Alpram!
 
-![Pramesa Alyusufi](img/banner.png)
+![Pramesa Alyusufi](banner.png)
 
 <!--
 **PramesaAlyusufi11/PramesaAlyusufi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
