@@ -1,4 +1,4 @@
-## Hello Alpram!
+## Hello World! I'm Student
 
 ![Pramesa Alyusufi](banner.png)
 
