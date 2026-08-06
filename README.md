@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,figma&theme=light)](https://skillicons.dev)
 
 ##### ⚡ Database
 
