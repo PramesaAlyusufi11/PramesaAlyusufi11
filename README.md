@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Data_Warehouse-336791?style=for-the-badge&logoColor=white" />
-
 ##### 🚀 Frameworks & Library
 
 [![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
